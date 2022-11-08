@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: thirdservice
+server:
+  port: 8083
